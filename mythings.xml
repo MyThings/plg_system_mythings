@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="2.5" method="upgrade">
+	<name>plg_system_mythings</name>
+	<author>WebMechanic</author>
+	<creationDate>2012</creationDate>
+	<copyright>(C)2012 Franzis Verlag, WebMechanic. Alle Rechte vorbehalten.</copyright>
+	<license>GNU/GPL 2</license>
+	<authorUrl>http://joomla.webmechanic.biz</authorUrl>
+	<version>0.1.0</version>
+	<description>plg_system_mythings_desc</description>
+
+	<files>
+		<folder plugin="mythings">language</folder>
+		<filename plugin="mythings">mythings.php</filename>
+	</files>
+
+	<config />
+
+</extension>
